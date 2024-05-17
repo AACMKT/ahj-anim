@@ -1,6 +1,6 @@
 # sse-ws-anim
 
-[![Build status](https://ci.appveyor.com/api/projects/status/i151i5juc1vftfia?svg=true)](https://ci.appveyor.com/project/AACMKT/ahj-anim)
+[![Build status](https://ci.appveyor.com/api/projects/status/0uea9t04976ve6t9?svg=true)](https://ci.appveyor.com/project/AACMKT/ahj-anim)
 
 [Ссылка на публикацию приложения на GitHub Pages](https://aacmkt.github.io/ahj-anim/)
 ---
